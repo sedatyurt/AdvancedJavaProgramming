@@ -19,7 +19,7 @@ public class GenericMethods {
     public static void main(String[] args) {
         List<Character> charList = arrayToList(charArray, new ArrayList<>());
         List<Boolean> boolList = arrayToList(boolArray, new ArrayList<>());
-        List<Integer> intList = arrayToList(intArray, new ArrayList<>());
+        List<String> intList = arrayToList(intArray, new ArrayList<>());
         System.out.println(intList.get(0));
     }
 }
