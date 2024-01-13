@@ -1,4 +1,4 @@
-package substitutionprinciple;
+package genericinjava.substitutionprinciple;
 
 public class Office extends Building{
 

@@ -1,4 +1,4 @@
-package org.example;
+package genericinjava.genericmethods;
 
 public class Varargs {
 

@@ -1,4 +1,4 @@
-package org.example;
+package genericinjava.genericmethods;
 
 import java.util.ArrayList;
 import java.util.List;
